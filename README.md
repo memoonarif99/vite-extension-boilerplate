@@ -493,10 +493,5 @@ manifest.json
 
 ## Thanks To
 
-| [Jackson Hong](https://www.linkedin.com/in/j-acks0n/)                                            |
-|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| <img width="100" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="JetBrains Logo (Main) logo."> | <img width="100" src='https://avatars.githubusercontent.com/u/23139754?v=4' alt='Jackson Hong'/> |
+[MEMOON ARIF](https://www.linkedin.com/in/memoon-arif-13aa70174/)                                            |
 
----
-
-[Jonghakseo](https://nookpi.tistory.com/)
