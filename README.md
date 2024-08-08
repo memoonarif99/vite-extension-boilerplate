@@ -406,23 +406,12 @@ manifest.json
 
 <img width="450" alt="devtools" src="https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite/assets/53500778/467d719d-a7db-4f77-8504-cd5ce7567793">
 
-## Examples <a name="examples"></a>
-
-- https://github.com/Jonghakseo/drag-gpt-extension
-- https://github.com/Jonghakseo/pr-commit-noti
-- https://github.com/ariburaco/chatgpt-file-uploader-extended
-
 ## Documents <a name="documents"></a>
 
 - [Vite Plugin](https://vitejs.dev/guide/api-plugin.html)
 - [ChromeExtension](https://developer.chrome.com/docs/extensions/mv3/)
 - [Rollup](https://rollupjs.org/guide/en/)
 - [Rollup-plugin-chrome-extension](https://www.extend-chrome.dev/rollup-plugin)
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
 
